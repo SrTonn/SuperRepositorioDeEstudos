@@ -1,6 +1,9 @@
+
+
+
 * {
-   
-    
+   background-image: image(imagem);
+   <body class="fundo" background="images/maintenance-2422172_1280.webp" style="background-repeat: no-repeat" width="2000" height="750"></body>
 }
 h1 {
     font-family: Arial, Helvetica, sans-serif;
@@ -45,14 +48,9 @@ img {
     margin-left: 10px;
     width: 350px;
     height: 50px;
-    margin-left: -55px;
+    margin-left: -60px;
     outline: none;
 
-}
-
-.liberacaoProjeto {
-
-    background-image: url()
 }
 
 
