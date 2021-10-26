@@ -60,6 +60,10 @@ Utilize esse repositório para interagir e praticar o conteúdo sobre git/github
 
 ### Eu alterei esta linha...
 
+#### Leonardo esteve aqui
+
+### Kesley esteve aqui 
+
 ### Anderson add esta linha
 
 ### Leonardo esteve aqui
