@@ -14,4 +14,4 @@
 
 ### [BrunoRo7](https://github.com/brunoro7) também dando uma passada por aqui!!!
 
-### [byancaknorst] (https://www.linkedin.com/in/byancaknorst/) Boa tarde e bons estudos pra nós *-*
+### [byancaknorst] (https://www.linkedin.com/in/byancaknorst/) Boa tarde e bons estudos pra nós
