@@ -1,6 +1,6 @@
 # Super repositório de estudos
 
-<img alt="Last commit" src="https://img.shields.io/github/last-commit/srtonn/superrepositoriodeestudo" /><br>
+<img alt="Last commit" src="https://img.shields.io/github/last-commit/srtonn/superrepositoriodeestudos" /><br>
 
 Utilize esse repositório para interagir e praticar o conteúdo sobre git/github ensinado nas aulas da trybe
 
@@ -11,12 +11,12 @@ Utilize esse repositório para interagir e praticar o conteúdo sobre git/github
 
   ## Clone o repositório
   ```sh
-    git clone https://github.com/SrTonn/SuperRepositorioDeEstudo
+    git clone https://github.com/SrTonn/SuperRepositorioDeEstudos
   ```
 
   ## Acesse a pasta do projeto
   ```bash
-    cd SuperRepositorioDeEstudo
+    cd SuperRepositorioDeEstudos
   ```
 
   ## Crie uma branch sua seguindo ao padrão *devNome*
