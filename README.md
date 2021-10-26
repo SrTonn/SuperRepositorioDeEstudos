@@ -2,7 +2,7 @@
 
 ### Leonardo editou essa linha
 
-### Eu(Douglas) alterei esta linha...
+### Eu alterei esta linha...
 
 ### Anderson add esta linha
 
