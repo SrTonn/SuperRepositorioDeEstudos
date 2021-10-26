@@ -11,3 +11,5 @@
 ### Tonn alterou essa linha
 
 ### [Brenndha](https://www.linkedin.com/in/brenndhacabral/) deu um pulinho aqui depois que todo mundo!
+
+### [BrunoRo7](https://github.com/brunoro7) também dando uma passada por aqui!!!
