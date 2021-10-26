@@ -47,7 +47,7 @@ Utilize esse repositório para interagir e praticar o conteúdo sobre git/github
   ## Empurre os commits para o repositório remoto
 
   ```sh
-  git push
+  git push origin devNome
   ```
   ## Vá ao [github](https://github.com/SrTonn/SuperRepositorioDeEstudo), vá até a aba pull request, abra um pull request e aguarde a avaliação de outro membro. Ao menos 2 membros tem que aceitar sua modificação.
 
