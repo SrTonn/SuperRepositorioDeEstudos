@@ -2,10 +2,48 @@
     background-color: rgb(230, 35, 35);
 }
 h1 {
-    background-color: violet;
+    background-color: rgb(206, 138, 206);
+}
+
+
+.oi1 {
+    color: rgb(0, 0, 0);
+    background: 0;
+
 }
 
 img {
     border-radius: 50%;
     height: 35px;
+}
+.pesquisa {
+    position: absolute;
+    margin-left: 700px;
+    z-index: 2;
+    
+}
+
+.lupa {
+    
+    position: relative;
+    top: 10px;
+    left: -60px;
+    background-color: #fdfdfd7c;
+
+    
+}
+
+.caixaDePesquisa {
+    color: #000000;
+    font-size: medium;
+    border: 0;
+    padding-left: 10px;
+    background-color: #fdfdfd7c;
+    margin-top: 0px;
+    margin-left: 10px;
+    width: 400px;
+    height: 40px;
+    margin-left: -60px;
+    outline: none;
+
 }
