@@ -4,57 +4,64 @@
 
 Utilize esse repositório para interagir e praticar o conteúdo sobre git/github ensinado nas aulas da trybe
 
+  ## Clone o repositório
+  ```
+  git clone git@github.com:SrTonn/SuperRepositorioDeEstudos.git
+  ```
 <details>
   <summary> <i>Como interagir? clique aqui 👈</i> </summary><br/>
 
   Solicite o acesso ao repositório me enviando uma mensagem no slack(Tonn - Turma XP - Tribo B)
 
   ## Clone o repositório
-  ```sh
-    git clone git@github.com:SrTonn/SuperRepositorioDeEstudos.git
+  ```
+  git clone git@github.com:SrTonn/SuperRepositorioDeEstudos.git
   ```
 
   ## Acesse a pasta do projeto
   ```bash
-    cd SuperRepositorioDeEstudos
+  cd SuperRepositorioDeEstudos
   ```
 
-  ## Crie uma branch sua seguindo ao padrão *devNome*
+  ## Crie uma **branch** sua seguindo ao padrão **dev+Nome**. 
+  > Ex.: devTonn
   ```sh
-    git checkout -b devNome
+  git checkout -b devNome
   ```
 
   ## Use sua criatividade, edite o que quiser com a conciência que é um repositório público podendo ser acessado por qualquer pessoa.
 
   ## Verifique o status dos arquivos modificados
-  ```sh
+  ```
   git status
   ```
   ## adicione as modificações ao stage
-  ```sh
+  ```
   git add .
   ```
   ### ou
-  ```sh
+  ```
   git add <nomeDoArquivo>
   ```
 
   ## Faça o commit
 
-  ```sh
+  ```
   git commit -m "Mensagem do commit"
   ```
   ## Empurre os commits para o repositório remoto
 
-  ```sh
+  ```
   git push origin devNome
   ```
   ## Vá ao [github](https://github.com/SrTonn/SuperRepositorioDeEstudo), vá até a aba pull request, abra um pull request e aguarde a avaliação de outro membro. Ao menos 2 membros tem que aceitar sua modificação.
 
 </details><br />
 
-# Deixe uma mensagem dessa linha para baixo
->sem alterar a mensagem de outro contribuidor.
+#
+
+## Deixe uma mensagem dessa linha para baixo
+> ⚠️ sem alterar a mensagem de outro contribuidor. ⚠️
 
 ### Leonardo editou essa linha
 
