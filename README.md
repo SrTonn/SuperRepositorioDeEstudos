@@ -55,6 +55,7 @@ Utilize esse repositório para interagir e praticar o conteúdo sobre git/github
 </details><br />
 
 ## Deixe uma mensagem dessa linha para baixo
+  
 > ⚠️ sem alterar a mensagem de outro contribuidor. ⚠️
 
 ### Leonardo editou essa linha
@@ -63,7 +64,7 @@ Utilize esse repositório para interagir e praticar o conteúdo sobre git/github
 
 #### Leonardo esteve aqui
 
-### Kesley esteve aqui 
+### Kesley esteve aqui
 
 ### Anderson add esta linha
 
@@ -81,3 +82,4 @@ Utilize esse repositório para interagir e praticar o conteúdo sobre git/github
 
 ### [devAlany](https://www.linkedin.com/in/alanyfernandes/) Esteve aqui!
 
+### [paolofullone](https://www.linkedin.com/in/paolofullone/) Bora galera! Boa iniciativa Tonn! 🚀🚀🚀🚀
