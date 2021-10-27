@@ -77,3 +77,6 @@ Utilize esse repositório para interagir e praticar o conteúdo sobre git/github
 ### Leo Oliveira esteve aqui
 
 ### [byancaknorst](https://www.linkedin.com/in/byancaknorst/) Boa tarde e bons estudos pra nós
+
+### [devAlany](https://www.linkedin.com/in/alanyfernandes/) Esteve aqui!
+
