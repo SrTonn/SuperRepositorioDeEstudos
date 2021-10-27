@@ -11,7 +11,7 @@ Utilize esse repositório para interagir e praticar o conteúdo sobre git/github
 
   ## Clone o repositório
   ```sh
-    git clone https://github.com/SrTonn/SuperRepositorioDeEstudos
+    git clone git@github.com:SrTonn/SuperRepositorioDeEstudos.git
   ```
 
   ## Acesse a pasta do projeto
