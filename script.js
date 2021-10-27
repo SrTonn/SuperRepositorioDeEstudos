@@ -13,7 +13,6 @@ function colorirFundo(elementos) {
 
 
 
-function funcao1(){
-      alert("Ainda não está funcionando!");
-         
-}
+
+
+

@@ -54,3 +54,9 @@ img {
     background-position: center;
    background-size: cover;
 }
+
+div#email{
+    position: absolute;
+    left: 390px;
+    top: 685px;
+  }
