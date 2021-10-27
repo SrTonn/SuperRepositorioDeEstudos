@@ -4,10 +4,6 @@
 
 Utilize esse repositório para interagir e praticar o conteúdo sobre git/github ensinado nas aulas da trybe
 
-  ## Clone o repositório
-  ```
-  git clone git@github.com:SrTonn/SuperRepositorioDeEstudos.git
-  ```
 <details>
   <summary> <i>Como interagir? clique aqui 👈</i> </summary><br/>
 
