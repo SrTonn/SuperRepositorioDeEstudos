@@ -54,8 +54,6 @@ Utilize esse repositório para interagir e praticar o conteúdo sobre git/github
 
 </details><br />
 
-#
-
 ## Deixe uma mensagem dessa linha para baixo
 > ⚠️ sem alterar a mensagem de outro contribuidor. ⚠️
 
