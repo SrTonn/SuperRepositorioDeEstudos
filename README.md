@@ -7,54 +7,65 @@ Utilize esse repositório para interagir e praticar o conteúdo sobre git/github
 <details>
   <summary> <i>Como interagir? clique aqui 👈</i> </summary><br/>
 
-  Solicite o acesso ao repositório me enviando uma mensagem no slack(Tonn - Turma XP - Tribo B)
+Solicite o acesso ao repositório me enviando uma mensagem no slack(Tonn - Turma XP - Tribo B)
 
-  ## Clone o repositório
-  ```sh
-    git clone git@github.com:SrTonn/SuperRepositorioDeEstudos.git
-  ```
+## Clone o repositório
 
-  ## Acesse a pasta do projeto
-  ```bash
-    cd SuperRepositorioDeEstudos
-  ```
+```sh
+  git clone git@github.com:SrTonn/SuperRepositorioDeEstudos.git
+```
 
-  ## Crie uma branch sua seguindo ao padrão *devNome*
-  ```sh
-    git checkout -b devNome
-  ```
+## Acesse a pasta do projeto
 
-  ## Use sua criatividade, edite o que quiser com a conciência que é um repositório público podendo ser acessado por qualquer pessoa.
+```bash
+  cd SuperRepositorioDeEstudos
+```
 
-  ## Verifique o status dos arquivos modificados
-  ```sh
-  git status
-  ```
-  ## adicione as modificações ao stage
-  ```sh
-  git add .
-  ```
-  ### ou
-  ```sh
-  git add <nomeDoArquivo>
-  ```
+## Crie uma branch sua seguindo ao padrão _devNome_
 
-  ## Faça o commit
+```sh
+  git checkout -b devNome
+```
 
-  ```sh
-  git commit -m "Mensagem do commit"
-  ```
-  ## Empurre os commits para o repositório remoto
+## Use sua criatividade, edite o que quiser com a conciência que é um repositório público podendo ser acessado por qualquer pessoa.
 
-  ```sh
-  git push origin devNome
-  ```
-  ## Vá ao [github](https://github.com/SrTonn/SuperRepositorioDeEstudo), vá até a aba pull request, abra um pull request e aguarde a avaliação de outro membro. Ao menos 2 membros tem que aceitar sua modificação.
+## Verifique o status dos arquivos modificados
+
+```sh
+git status
+```
+
+## adicione as modificações ao stage
+
+```sh
+git add .
+```
+
+### ou
+
+```sh
+git add <nomeDoArquivo>
+```
+
+## Faça o commit
+
+```sh
+git commit -m "Mensagem do commit"
+```
+
+## Empurre os commits para o repositório remoto
+
+```sh
+git push origin devNome
+```
+
+## Vá ao [github](https://github.com/SrTonn/SuperRepositorioDeEstudo), vá até a aba pull request, abra um pull request e aguarde a avaliação de outro membro. Ao menos 2 membros tem que aceitar sua modificação.
 
 </details><br />
 
 # Deixe uma mensagem dessa linha para baixo
->sem alterar a mensagem de outro contribuidor.
+
+> sem alterar a mensagem de outro contribuidor.
 
 ### Leonardo editou essa linha
 
@@ -62,7 +73,7 @@ Utilize esse repositório para interagir e praticar o conteúdo sobre git/github
 
 #### Leonardo esteve aqui
 
-### Kesley esteve aqui 
+### Kesley esteve aqui
 
 ### Anderson add esta linha
 
@@ -80,3 +91,4 @@ Utilize esse repositório para interagir e praticar o conteúdo sobre git/github
 
 ### [devAlany](https://www.linkedin.com/in/alanyfernandes/) Esteve aqui!
 
+### [paolofullone](https://www.linkedin.com/in/paolofullone/) Bora galera! Boa iniciativa Tonn! 🚀🚀🚀🚀
