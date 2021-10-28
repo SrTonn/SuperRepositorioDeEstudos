@@ -83,3 +83,5 @@ Utilize esse repositório para interagir e praticar o conteúdo sobre git/github
 ### [devAlany](https://www.linkedin.com/in/alanyfernandes/) Esteve aqui!
 
 ### [paolofullone](https://www.linkedin.com/in/paolofullone/) Bora galera! Boa iniciativa Tonn! 🚀🚀🚀🚀
+  
+### [Kamila-hydalgo](https://www.linkedin.com/in/kamilahydalgo/) "Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away." Go TRybers!!!
