@@ -1,7 +1,4 @@
 
-* {
-   
-}
 h1 {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 90px medium;
@@ -57,3 +54,9 @@ img {
     background-position: center;
    background-size: cover;
 }
+
+div#email{
+    position: absolute;
+    left: 390px;
+    top: 685px;
+  }
