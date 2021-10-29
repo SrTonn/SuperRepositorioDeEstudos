@@ -72,6 +72,8 @@ Utilize esse repositório para interagir e praticar o conteúdo sobre git/github
 
 ### Tonn alterou essa linha 😁
 
+### Leticia passou aqui com a ajuda do Tonn 😆
+
 ### [Brenndha](https://www.linkedin.com/in/brenndhacabral/) deu um pulinho aqui depois que todo mundo!
 
 ### [BrunoRo7](https://github.com/brunoro7) também dando uma passada por aqui!!!
