@@ -55,7 +55,7 @@ Utilize esse repositório para interagir e praticar o conteúdo sobre git/github
 </details><br />
 
 ## Deixe uma mensagem dessa linha para baixo
-  
+
 > ⚠️ sem alterar a mensagem de outro contribuidor. ⚠️
 
 ### Leonardo editou essa linha
@@ -85,5 +85,12 @@ Utilize esse repositório para interagir e praticar o conteúdo sobre git/github
 ### [devAlany](https://www.linkedin.com/in/alanyfernandes/) Esteve aqui!
 
 ### [paolofullone](https://www.linkedin.com/in/paolofullone/) Bora galera! Boa iniciativa Tonn! 🚀🚀🚀🚀
-  
+
 ### [Kamila-hydalgo](https://www.linkedin.com/in/kamilahydalgo/) "Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away." Go Trybers!!!
+
+### [Suelen Arruda](https://www.linkedin.com/in/suelen-arruda/) esteve aqui para dizer que : 
+
+![:-xp:](https://emoji.slack-edge.com/TMDDFEPFU/-xp/5a14ffa21305f62a.png)
+
+#### Estamos cadia mais perto!!! Que tudo ocorra da melhor forma! Para todos nós!! 🚀🚀🚀🚀
+
